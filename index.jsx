@@ -1,1 +1,1 @@
-node verification test
+node verification test with spawn
